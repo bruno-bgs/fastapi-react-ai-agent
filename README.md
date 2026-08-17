@@ -191,16 +191,6 @@ O frontend ficará disponível em:
 - Base documental administrável pela interface
 - Frontend com histórico, exclusão de conversas e visual voltado a portfólio
 
-## Próximos passos
-
-- Adicionar modo `Debug` para investigação de erros
-- Melhorar o RAG com embeddings e ranking semântico
-- Permitir renomear conversas manualmente
-- Adicionar streaming de resposta
-- Criar testes automatizados
-- Fazer deploy do frontend e do backend
-- Adicionar autenticação
-
 ## Status
 
 Versão funcional de portfólio, com backend e frontend integrados, persistência local, modos de agente e primeira camada de RAG.
